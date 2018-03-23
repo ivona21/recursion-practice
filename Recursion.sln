@@ -9,6 +9,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintReverse", "PrintRevers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumNumbers", "SumNumbers\SumNumbers.csproj", "{57B425CC-CF31-49F5-B8D7-D43BE94A33EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndividualDigits", "IndividualDigits\IndividualDigits.csproj", "{77949A5F-A383-4E1F-9F60-C60EADC4E618}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{947D42DC-6595-47E5-BA64-91D20BB8C582}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +34,10 @@ Global
 		{57B425CC-CF31-49F5-B8D7-D43BE94A33EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57B425CC-CF31-49F5-B8D7-D43BE94A33EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57B425CC-CF31-49F5-B8D7-D43BE94A33EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77949A5F-A383-4E1F-9F60-C60EADC4E618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77949A5F-A383-4E1F-9F60-C60EADC4E618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77949A5F-A383-4E1F-9F60-C60EADC4E618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77949A5F-A383-4E1F-9F60-C60EADC4E618}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
