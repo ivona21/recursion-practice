@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddAndEven", "OddAndEven\Od
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumber", "PrimeNumber\PrimeNumber.csproj", "{AF6D5C0E-B10F-45B5-875A-3491A796C950}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{25AB6DCE-3861-4139-9CF5-9FE91FF3C431}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,10 @@ Global
 		{AF6D5C0E-B10F-45B5-875A-3491A796C950}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF6D5C0E-B10F-45B5-875A-3491A796C950}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF6D5C0E-B10F-45B5-875A-3491A796C950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25AB6DCE-3861-4139-9CF5-9FE91FF3C431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25AB6DCE-3861-4139-9CF5-9FE91FF3C431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25AB6DCE-3861-4139-9CF5-9FE91FF3C431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25AB6DCE-3861-4139-9CF5-9FE91FF3C431}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
